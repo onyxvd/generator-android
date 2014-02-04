@@ -26,7 +26,7 @@ proguard/
 .mtj.tmp/
 
 # Package Files #
-*.jar
+#*.jar
 *.war
 *.ear
 
@@ -41,7 +41,7 @@ tmp/
 *.swp
 *~.nib
 local.properties
-.settings/
+#.settings/
 .loadpath
 
 # External tool builders
